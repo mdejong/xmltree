@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"aqwari.net/xml/xmltree"
+	"github.com/mdejong/xmltree"
 )
 
 func ExampleElement_Search() {

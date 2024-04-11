@@ -6,7 +6,7 @@ import (
 	"log"
 	"testing"
 
-	"aqwari.net/xml/xmltree"
+	"github.com/mdejong/xmltree"
 )
 
 // Check for proper XML escape quoting inside attributes
